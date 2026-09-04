@@ -17,8 +17,6 @@
     <AppDomain>api.moonshot.cn</AppDomain>
     <AppDomain>api.minimax.io</AppDomain>
     <AppDomain>api.minimaxi.com</AppDomain>
-    <AppDomain>openrouter.ai</AppDomain>
-    <AppDomain>api.siliconflow.cn</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Document"/>
