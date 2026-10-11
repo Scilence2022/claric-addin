@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkclaric=self.webpackChunkclaric||[]).push([[926],{4672(e,c,r){r.r(c),r.d(c,{MCP_APPROVAL:()=>a.$K,RESOURCE_TOOL_SPECS:()=>a.pr,buildLoopTools:()=>a.gp,connectMcpServer:()=>o.Cm,createMcpToolExecutor:()=>a.a_,createResourceClient:()=>a.ih});var o=r(6857),a=r(6715)}}]);
