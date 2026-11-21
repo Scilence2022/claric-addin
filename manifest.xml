@@ -3,7 +3,7 @@
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:type="TaskPaneApp">
   <Id>814b0af4-661b-4244-9a98-1b9a444502e6</Id>
-  <Version>1.0.2.0</Version>
+  <Version>1.1.0.0</Version>
   <ProviderName>Claric</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="Claric — AI Writing &amp; Editing Assistant for Word"/>
